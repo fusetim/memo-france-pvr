@@ -1,0 +1,139 @@
+= Memo - PVR in France
+Mémo sur l'enregistrement TV en France
+
+[abstract]
+L'objectif de ce mémo est d'offrir une vue globale sur les enregistrements réalisables en France de chaines
+de télévision, comprenant notamment les différentes caractéristiques des flux proposés selon les systèmes
+utilisés par l'abonné (TNT, IP, Sattelite).
+
+== Caractéristiques des flux
+
+[cols="1,1,1,1,1"]
+|===
+|Chaines|TNT|Freebox Delta|WebTV|Extras
+
+| TF1
+| 🔓 1080i + DDP2
+| 1080i + AAC
+| N/A
+| 4K (cf TF1-4K)
+
+| France 2/4/5
+| 🔓 1080i + DDP2
+| 🔓 1080i + AAC
+| N/A
+|
+
+| France 3
+| 🔓 1080i + MP2
+| 🔓 1080i + AAC
+| N/A
+|
+
+| Canal+
+| 🔓 1080i + DDP2
+| N/A
+| N/A
+| Chaine à abonnement
+
+| M6
+| 🔓 1080i + DDP5.1
+| 1080d + AAC
+| N/A
+|
+
+| Arte
+| 🔓 1080i + DDP2
+| N/A
+| N/A
+|
+
+| C8
+| 🔓 1080i + DDP2
+| 1080i ou 1080d + AAC
+| 720p60 (Dailymotion)
+|
+
+| W9
+| 🔓 1080i + DDP5.1
+| 1080d + AAC
+| N/A
+|
+
+| TMC
+| 🔓 1080i + DDP2
+| 1080d + AAC
+| N/A
+|
+
+| TFX
+| 🔓 1080i + DDP2
+| 1080d + AAC
+| N/A
+|
+
+| NRJ12
+| 🔓 1080i + DDP2
+| 1080d + AAC
+| N/A
+|
+
+| LCP
+| 🔓 1080i + DDP2
+| N/A
+| N/A
+|
+
+| CNews
+| 🔓 1080i + DDP2
+| 1080i ou 1080d + AAC
+| 720p60 (Dailymotion)
+|
+
+| CStar
+| 🔓 1080i + DDP2
+| 🔐 1080i ou 1080d + AAC
+| 720p60 (Dailymotion)
+|
+
+| Gulli
+| 🔓 1080i + DDP2
+| 1080d + AAC
+| N/A
+|
+
+| TSF - TF1 Séries Films
+| 🔓 1080i + DDP2
+| 🔐 1080i ou 1080d + AAC
+| N/A
+|
+
+| 6ter
+| 🔓 1080i + DDP5.1
+| 1080d + AAC
+| N/A
+|
+
+| RTL9
+| -
+| 🔓 1080d + AAC
+| N/A
+|
+
+| TF1 4K
+| 🔓 2160p50 HDR (évènementielle)
+| 🔐 2160p50 HDR (évènementielle)
+| N/A
+| Seuls les flux audio sont chiffrés. Remux sans DRM possible.
+|===
+
+=== Légendes
+2160p50:: Flux vidéo h265/hevc en 3840x2160 non-interlacée, 50ips. Parfois en HDR.
+1080p:: Flux vidéo h264 en 1920x1080 non-interlacée, généralement en 25ips (images par secondes).
+1080i:: Flux vidéo h264 en 1920x1080 interlacée, 50Hz.
+1080d:: Flux vidéo h264 en 1440x1080 interlacée, 50Hz, puis mis à l'échelle. Communément appelé https://fr.wikipedia.org/wiki/1080i_d%C3%A9grad%C3%A9[1080i dégradé]. C'est le type
+de flux utilisé pour les diffusion TNT HD.
+DDP:: Flux audio Dolby Digital Plus. DDP2 pour un flux stéréo, DDP5.1 pour un flux 5.1.
+MP2:: Flux audio MP2, stéréo.
+🔐 DRM:: Mesures techniques de protection, indique que un des flux est chiffré et n'est donc pas aisément utilisable.
+🔓 Sans-DRM:: Aucune mesures techniques de protection, quelque soit le flux ou le programme.
