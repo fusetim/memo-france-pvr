@@ -15,7 +15,7 @@ utilisés par l'abonné (TNT, IP, Satellite).
 | TF1
 | 🔓 1080i + DDP2
 | 1080i + AAC
-| N/A
+| 720p25 (LQ) + AAC (sur inscription)
 | 4K (cf TF1-4K)
 
 | France 2/4/5
@@ -63,13 +63,13 @@ utilisés par l'abonné (TNT, IP, Satellite).
 | TMC
 | 🔓 1080i + DDP2
 | 1080d + AAC
-| N/A
+| 720p25 (LQ) + AAC (sur inscription)
 |
 
 | TFX
 | 🔓 1080i + DDP2
 | 1080d + AAC
-| N/A
+| 720p25 (LQ) + AAC (sur inscription)
 |
 
 | NRJ12
@@ -105,7 +105,7 @@ utilisés par l'abonné (TNT, IP, Satellite).
 | TSF - TF1 Séries Films
 | 🔓 1080i + DDP2
 | 🔐 1080i ou 1080d + AAC
-| N/A
+| 720p25 (LQ) + AAC (sur inscription)
 |
 
 | 6ter
@@ -133,7 +133,9 @@ utilisés par l'abonné (TNT, IP, Satellite).
 1080i:: Flux vidéo h264 en 1920x1080 interlacée, 50Hz.
 1080d:: Flux vidéo h264 en 1440x1080 interlacée, 50Hz, puis mis à l'échelle. Communément appelé https://fr.wikipedia.org/wiki/1080i_d%C3%A9grad%C3%A9[1080i dégradé]. C'est le type
 de flux anciennement utilisé pour les diffusions TNT HD.
+720p:: Flux vidéo h264 en 1280x720 non-interlacée, généralement en 25ips (images par secondes).
 DDP:: Flux audio Dolby Digital Plus. DDP2 pour un flux stéréo, DDP5.1 pour un flux 5.1.
 MP2:: Flux audio MP2, stéréo.
+HQ/LQ:: Haute Qualité / Basse Qualité
 🔐 DRM:: Mesures techniques de protection, indique que un des flux est chiffré et n'est donc pas aisément utilisable.
 🔓 Sans-DRM:: Aucune mesure technique de protection, quelque soit le flux ou le programme.
