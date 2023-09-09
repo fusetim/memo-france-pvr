@@ -4,7 +4,7 @@ Mémo sur l'enregistrement TV en France
 [abstract]
 L'objectif de ce mémo est d'offrir une vue globale sur les enregistrements réalisables en France de chaines
 de télévision, comprenant notamment les différentes caractéristiques des flux proposés selon les systèmes
-utilisés par l'abonné (TNT, IP, Sattelite).
+utilisés par l'abonné (TNT, IP, Satellite).
 
 == Caractéristiques des flux
 
@@ -31,7 +31,7 @@ utilisés par l'abonné (TNT, IP, Sattelite).
 |
 
 | Canal+
-| 🔓 1080i + DDP2
+| 1080i + DDP2
 | N/A
 | N/A
 | Chaine à abonnement
@@ -132,8 +132,8 @@ utilisés par l'abonné (TNT, IP, Sattelite).
 1080p:: Flux vidéo h264 en 1920x1080 non-interlacée, généralement en 25ips (images par secondes).
 1080i:: Flux vidéo h264 en 1920x1080 interlacée, 50Hz.
 1080d:: Flux vidéo h264 en 1440x1080 interlacée, 50Hz, puis mis à l'échelle. Communément appelé https://fr.wikipedia.org/wiki/1080i_d%C3%A9grad%C3%A9[1080i dégradé]. C'est le type
-de flux utilisé pour les diffusion TNT HD.
+de flux anciennement utilisé pour les diffusions TNT HD.
 DDP:: Flux audio Dolby Digital Plus. DDP2 pour un flux stéréo, DDP5.1 pour un flux 5.1.
 MP2:: Flux audio MP2, stéréo.
 🔐 DRM:: Mesures techniques de protection, indique que un des flux est chiffré et n'est donc pas aisément utilisable.
-🔓 Sans-DRM:: Aucune mesures techniques de protection, quelque soit le flux ou le programme.
+🔓 Sans-DRM:: Aucune mesure technique de protection, quelque soit le flux ou le programme.
